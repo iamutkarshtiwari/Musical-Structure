@@ -31,9 +31,11 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".activity.SongListActivity"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".activity.AlbumListActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".activity.PaymentActivity"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

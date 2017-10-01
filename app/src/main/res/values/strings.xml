@@ -8,8 +8,11 @@
     <string name="add_users">Add users</string>
     <string name="albums">Albums</string>
     <string name="songs">Songs</string>
+    <string name="payment">Payment</string>
     <string name="now_playing">Now playing</string>
+    <string name="payment_description">The Android Pay API offers a quick and easy path to enable secure, one touch payments in your app using your existing payment infrastructure. Once you complete the integration with your app\'s payment processing flow, Android users will enjoy a rapid, consistent checkout process with Android Pay.</string>
     <string name="will_be_used">Will be used to play via media player</string>
+    <string name="will_be_used_for_payments">Will be used for payments</string>
 
     <string-array name="artists">
         <item>Of Monsters and Men</item>
